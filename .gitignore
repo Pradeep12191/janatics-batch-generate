@@ -1,0 +1,23 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+*.zip
+launch.json
+web-build/
+web-report/
+dist/*
+reportPdfs/
+public/images
+public/svic
+public/drawings
+public/uploads/excels
+public/uploads/inspectionFiles
+
+# macOS
+.DS_Store

@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "jan_sfp",
+    "password": "Jansfp123",
+    "database": "prod",
+    "host": "127.0.0.1",
+    "dialect": "oracle"
+  },
+  "test": {
+    "username": "jan_sfp",
+    "password": "Jansfp123",
+    "database": "prod",
+    "host": "127.0.0.1",
+    "dialect": "oracle"
+  },
+  "production": {
+    "username": "jan_sfp",
+    "password": "Jansfp123",
+    "database": "prod",
+    "host": "127.0.0.1",
+    "dialect": "oracle"
+  }
+}
